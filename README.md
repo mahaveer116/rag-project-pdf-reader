@@ -193,10 +193,3 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want next level polish, I can:
-
-* Add **badges (stars, forks, deploy)**
-* Create a **one-line resume description**
-* Or make this README **stand out for recruiters**
-
-[1]: https://github.com/rakeshutekar/RAG-based-PDF-Query-System?utm_source=chatgpt.com "rakeshutekar/RAG-based-PDF-Query-System"
