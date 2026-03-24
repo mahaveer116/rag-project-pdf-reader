@@ -69,18 +69,7 @@ Graceful fallback when the document lacks relevant information:
 
 ## How It Works
 
-```mermaid
-flowchart LR
-    A[Upload PDF] --> B[Text Extraction]
-    B --> C[Chunking]
-    C --> D[Embeddings]
-    D --> E[Store in ChromaDB]
-    F[User Query] --> G[Similarity Search]
-    G --> E
-    E --> H[Retrieve Context]
-    H --> I[Generate Response (Mistral)]
-    I --> J[Display Answer]
-```
+
 
 ### Pipeline Steps
 
