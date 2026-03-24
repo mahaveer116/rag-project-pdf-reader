@@ -1,7 +1,3 @@
-Here’s your **final polished README with screenshot links included properly** (clean, professional, GitHub-ready):
-
----
-
 # RAG Chat – PDF-Based Conversational AI
 
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions based on their content. The system uses Mistral for response generation and ChromaDB for efficient semantic retrieval.
